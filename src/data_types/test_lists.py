@@ -336,3 +336,7 @@ def test_nested_list_comprehensions():
         (3, 7, 11),
         (4, 8, 12),
     ]
+
+
+squar = [1, 4, 9, 16, 25]
+print(squar[2])
